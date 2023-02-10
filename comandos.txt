@@ -3,3 +3,6 @@ COMANDOS QUE APRENDEMOS
 git init
 git status
 git add
+git remote
+git push
+git config
